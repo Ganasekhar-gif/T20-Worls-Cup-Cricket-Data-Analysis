@@ -3,7 +3,17 @@
 ## 📋 Project Overview                                                                         
 This project focuses on analyzing T20 World Cup cricket data to uncover insights about teams, players, and matches. By leveraging data analytics techniques, we explore trends, player performance, team strategies, and key match outcomes to provide actionable insights for cricket enthusiasts, analysts, and sports strategists.                                                                               
 
-## Drive Link: https://drive.google.com/file/d/1i5UHxWNyHmDh7COAUR8zjYQmDqITVazA/view?usp=sharing
+## Drive Link: https://drive.google.com/file/d/1i5UHxWNyHmDh7COAUR8zjYQmDqITVazA/view?usp=sharing                                                           
+
+## 📊 Key Dashboards                                                                       
+## Power Hitters/openers                                                                                             
+https://github.com/user-attachments/assets/05c04f35-39f4-4271-b1ba-4dad55855e85                                                                             
+
+## Anchors/Middle Order
+https://github.com/user-attachments/assets/397ebd1e-9faf-4cd3-8561-0e9708adc67d                                                                     
+
+## Specialist Fast Bowlers                                                                                   
+https://github.com/user-attachments/assets/3bb36581-df95-4ced-ae15-db1844086176                                                                                            
 
 ## 🎯 Objectives                                                                                               
 - Analyze team performance across different editions of the T20 World Cup.                                                      
